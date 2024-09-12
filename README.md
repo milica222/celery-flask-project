@@ -5,11 +5,10 @@ This project demonstrates how to build a web application using Flask as the web 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-  - [1. Clone the Repository](#1-clone-the-repository)
-  - [2. Build and Start the Containers](#3-build-and-start-the-containers)
-  - [4. Access the Application](#4-access-the-application)
 - [Running the Application](#running-the-application)
+  - [1. Clone the Repository](#1-clone-the-repository)
+  - [2. Build and Start the Containers](#2-build-and-start-the-containers)
+  - [3. Running and Monitoring Tasks](#3-running-and-monitoring-tasks)
 
 
 ## Prerequisites
