@@ -39,7 +39,7 @@ To start, clone the repository to your local machine using the following command
 
 ```bash
 git clone https://github.com/milica222/celery-flask-project.git
-cd flask-celery-redis-docker
+cd celery-flask-project
 ```
 
 **2. Build and Start the Containers**
