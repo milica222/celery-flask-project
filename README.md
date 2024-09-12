@@ -16,7 +16,7 @@ This project demonstrates how to build a web application using Flask as the web 
 Make sure you have the following installed:
 - [Docker](https://docs.docker.com/get-docker/) (to run the containers)
 - [Docker Compose](https://docs.docker.com/compose/install/) (to orchestrate the containers)
-- Python 3.9 (if running the application locally without Docker)
+- Python 3.9 
 
 ## Project Structure
 
